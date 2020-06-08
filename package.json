@@ -1,0 +1,14 @@
+{
+  "name": "pokedex-go-api",
+  "version": "1.0.0",
+  "description": "Exhaustive Pokemon GO Pokedex API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  }
+}

@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "type": "Normal",
+    "name": "Struggle",
+    "damage": 35,
+    "dps": 15.9
+  },
+  {
+    "id": 2,
+    "type": "Bug",
+    "name": "Fury Cutter",
+    "damage": 3,
+    "dps": 7.5
+  },
+  {
+    "id": 3,
+    "type": "Bug",
+    "name": "Bug Bite",
+    "damage": 5,
+    "dps": 10
+  },
+  {
+    "id": 4,
+    "type": "Dark",
+    "name": "Bite",
+    "damage": 6,
+    "dps": 12
+  },
+  {
+    "id": 5,
+    "type": "Dark",
+    "name": "Sucker Punch",
+    "damage": 7,
+    "dps": 10
+  },
+  {
+    "id": 6,
+    "type": "Dragon",
+    "name": "Dragon Breath",
+    "damage": 6,
+    "dps": 12
+  },
+  {
+    "id": 7,
+    "type": "Electric",
+    "name": "Thunder Shock",
+    "damage": 5,
+    "dps": 8.3
+  },
+  {
+    "id": 8,
+    "type": "Electric",
+    "name": "Spark",
+    "damage": 6,
+    "dps": 8.6
+  },
+  {
+    "id": 9,
+    "type": "Fighting",
+    "name": "Low Kick",
+    "damage": 6,
+    "dps": 10
+  },
+  {
+    "id": 10,
+    "type": "Fighting",
+    "name": "Karate Chop",
+    "damage": 8,
+    "dps": 10
+  },
+  {
+    "id": 11,
+    "type": "Fire",
+    "name": "Ember",
+    "damage": 10,
+    "dps": 10
+  },
+  {
+    "id": 12,
+    "type": "Flying",
+    "name": "Wing Attack",
+    "damage": 8,
+    "dps": 10
+  },
+  {
+    "id": 13,
+    "type": "Flying",
+    "name": "Peck",
+    "damage": 10,
+    "dps": 10
+  },
+  {
+    "id": 14,
+    "type": "Ghost",
+    "name": "Lick",
+    "damage": 5,
+    "dps": 10
+  },
+  {
+    "id": 15,
+    "type": "Ghost",
+    "name": "Shadow Claw",
+    "damage": 9,
+    "dps": 12.9
+  },
+  {
+    "id": 16,
+    "type": "Grass",
+    "name": "Vine Whip",
+    "damage": 7,
+    "dps": 11.7
+  },
+  {
+    "id": 17,
+    "type": "Grass",
+    "name": "Razor Leaf",
+    "damage": 13,
+    "dps": 13
+  },
+  {
+    "id": 18,
+    "type": "Ground",
+    "name": "Mud Shot",
+    "damage": 5,
+    "dps": 8.3
+  },
+  {
+    "id": 19,
+    "type": "Ice",
+    "name": "Ice Shard",
+    "damage": 12,
+    "dps": 10
+  },
+  {
+    "id": 20,
+    "type": "Ice",
+    "name": "Frost Breath",
+    "damage": 10,
+    "dps": 11.1
+  },
+  {
+    "id": 21,
+    "type": "Normal",
+    "name": "Quick Attack",
+    "damage": 8,
+    "dps": 10
+  },
+  {
+    "id": 22,
+    "type": "Normal",
+    "name": "Scratch",
+    "damage": 6,
+    "dps": 12
+  },
+  {
+    "id": 23,
+    "type": "Normal",
+    "name": "Tackle",
+    "damage": 5,
+    "dps": 10
+  },
+  {
+    "id": 24,
+    "type": "Normal",
+    "name": "Pound",
+    "damage": 7,
+    "dps": 11.7
+  },
+  {
+    "id": 25,
+    "type": "Normal",
+    "name": "Cut",
+    "damage": 5,
+    "dps": 10
+  },
+  {
+    "id": 26,
+    "type": "Poison",
+    "name": "Poison Jab",
+    "damage": 10,
+    "dps": 12.5
+  },
+  {
+    "id": 27,
+    "type": "Poison",
+    "name": "Acid",
+    "damage": 9,
+    "dps": 11.3
+  },
+  {
+    "id": 28,
+    "type": "Psychic",
+    "name": "Psycho Cut",
+    "damage": 5,
+    "dps": 8.3
+  },
+  {
+    "id": 29,
+    "type": "Rock",
+    "name": "Rock Throw",
+    "damage": 12,
+    "dps": 13.3
+  },
+  {
+    "id": 30,
+    "type": "Steel",
+    "name": "Metal Claw",
+    "damage": 8,
+    "dps": 11.4
+  },
+  {
+    "id": 31,
+    "type": "Steel",
+    "name": "Bullet Punch",
+    "damage": 9,
+    "dps": 10
+  },
+  {
+    "id": 32,
+    "type": "Water",
+    "name": "Water Gun",
+    "damage": 5,
+    "dps": 10
+  },
+  {
+    "id": 33,
+    "type": "Water",
+    "name": "Splash",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 34,
+    "type": "Ground",
+    "name": "Mud-Slap",
+    "damage": 18,
+    "dps": 12.9
+  },
+  {
+    "id": 35,
+    "type": "Psychic",
+    "name": "Zen Headbutt",
+    "damage": 12,
+    "dps": 10.9
+  },
+  {
+    "id": 36,
+    "type": "Psychic",
+    "name": "Confusion",
+    "damage": 20,
+    "dps": 12.5
+  },
+  {
+    "id": 37,
+    "type": "Poison",
+    "name": "Poison Sting",
+    "damage": 5,
+    "dps": 8.3
+  },
+  {
+    "id": 38,
+    "type": "Water",
+    "name": "Bubble",
+    "damage": 12,
+    "dps": 10
+  },
+  {
+    "id": 39,
+    "type": "Dark",
+    "name": "Feint Attack",
+    "damage": 10,
+    "dps": 11.1
+  },
+  {
+    "id": 40,
+    "type": "Steel",
+    "name": "Steel Wing",
+    "damage": 11,
+    "dps": 13.8
+  },
+  {
+    "id": 41,
+    "type": "Fire",
+    "name": "Fire Fang",
+    "damage": 12,
+    "dps": 13.3
+  },
+  {
+    "id": 42,
+    "type": "Fighting",
+    "name": "Rock Smash",
+    "damage": 15,
+    "dps": 11.5
+  },
+  {
+    "id": 43,
+    "type": "Normal",
+    "name": "Transform",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 44,
+    "type": "Fighting",
+    "name": "Counter",
+    "damage": 12,
+    "dps": 13.3
+  },
+  {
+    "id": 45,
+    "type": "Ice",
+    "name": "Powder Snow",
+    "damage": 6,
+    "dps": 6
+  },
+  {
+    "id": 46,
+    "type": "Electric",
+    "name": "Charge Beam",
+    "damage": 8,
+    "dps": 7.3
+  },
+  {
+    "id": 47,
+    "type": "Electric",
+    "name": "Volt Switch",
+    "damage": 14,
+    "dps": 8.8
+  },
+  {
+    "id": 48,
+    "type": "Dragon",
+    "name": "Dragon Tail",
+    "damage": 15,
+    "dps": 13.6
+  },
+  {
+    "id": 49,
+    "type": "Flying",
+    "name": "Air Slash",
+    "damage": 14,
+    "dps": 11.7
+  },
+  {
+    "id": 50,
+    "type": "Bug",
+    "name": "Infestation",
+    "damage": 10,
+    "dps": 9.1
+  },
+  {
+    "id": 51,
+    "type": "Bug",
+    "name": "Struggle Bug",
+    "damage": 15,
+    "dps": 10
+  },
+  {
+    "id": 52,
+    "type": "Ghost",
+    "name": "Astonish",
+    "damage": 8,
+    "dps": 7.3
+  },
+  {
+    "id": 53,
+    "type": "Ghost",
+    "name": "Hex",
+    "damage": 10,
+    "dps": 8.3
+  },
+  {
+    "id": 54,
+    "type": "Steel",
+    "name": "Iron Tail",
+    "damage": 15,
+    "dps": 13.6
+  },
+  {
+    "id": 55,
+    "type": "Fire",
+    "name": "Fire Spin",
+    "damage": 14,
+    "dps": 12.7
+  },
+  {
+    "id": 56,
+    "type": "Grass",
+    "name": "Bullet Seed",
+    "damage": 8,
+    "dps": 7.3
+  },
+  {
+    "id": 57,
+    "type": "Psychic",
+    "name": "Extrasensory",
+    "damage": 12,
+    "dps": 10.9
+  },
+  {
+    "id": 58,
+    "type": "Dark",
+    "name": "Snarl",
+    "damage": 12,
+    "dps": 10.9
+  },
+  {
+    "id": 59,
+    "type": "Normal",
+    "name": "Hidden Power",
+    "damage": 15,
+    "dps": 10
+  },
+  {
+    "id": 60,
+    "type": "Normal",
+    "name": "Take Down",
+    "damage": 8,
+    "dps": 6.7
+  },
+  {
+    "id": 61,
+    "type": "Water",
+    "name": "Waterfall",
+    "damage": 16,
+    "dps": 13.3
+  },
+  {
+    "id": 62,
+    "type": "Normal",
+    "name": "Yawn",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 63,
+    "type": "Normal",
+    "name": "Present",
+    "damage": 5,
+    "dps": 3.8
+  },
+  {
+    "id": 64,
+    "type": "Rock",
+    "name": "Smack Down",
+    "damage": 16,
+    "dps": 13.3
+  },
+  {
+    "id": 65,
+    "type": "Bug",
+    "name": "Lunge",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 66,
+    "type": "Normal",
+    "name": "Crush Claw",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 67,
+    "type": "Bug",
+    "name": "Leech Life",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 68,
+    "type": "Fighting",
+    "name": "Drain Punch",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 69,
+    "type": "Ghost",
+    "name": "Shadow Bone",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 70,
+    "type": "Water",
+    "name": "Razor Shell",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 71,
+    "type": "Fairy",
+    "name": "Charm",
+    "damage": 20,
+    "dps": 13.3
+  },
+  {
+    "id": 72,
+    "type": "Normal",
+    "name": "Lock-On",
+    "damage": 1,
+    "dps": 3.3
+  },
+  {
+    "id": 73,
+    "type": "Electric",
+    "name": "Thunder Fang",
+    "damage": 12,
+    "dps": 10
+  },
+  {
+    "id": 74,
+    "type": "Ice",
+    "name": "Ice Fang",
+    "damage": 12,
+    "dps": 8
+  },
+  {
+    "id": 75,
+    "type": "Normal",
+    "name": "Horn Drill",
+    "damage": 0,
+    "dps": 0
+  },
+  {
+    "id": 76,
+    "type": "Ground",
+    "name": "Fissure",
+    "damage": 0,
+    "dps": 0
+  }
+]
